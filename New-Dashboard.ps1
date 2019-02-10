@@ -2,7 +2,7 @@
 # If you don't have this already you will need to download it; for Powershell version 5 you can do 'Install-Module UniversalDashboard'
 Import-Module UniversalDashboard
 
-# Create a new Universal Dashboard Authetnciation method, this one will be for our Azure AD Instance
+# Create a new Universal Dashboard Authentication method, this one will be for our Azure AD Instance
 # Client ID = The Azure application ID
 # Doamin = your Azure AD Domain
 # Teneant ID = Your Azure AD Tenant
